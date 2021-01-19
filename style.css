@@ -64,8 +64,9 @@ h2 {
 }
 .video {
     margin: auto;
-    width: 90%;
+    max-width: 90%;
     margin-bottom: 5%;
+    max-height: 90%
 }
 a {
     color: white;
