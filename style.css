@@ -87,3 +87,6 @@ b {
     margin: auto;
     margin-bottom: 5%;
 }
+li [
+    color: white;
+}
