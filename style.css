@@ -90,3 +90,7 @@ b {
 ul {
     color: white;
 }
+::marker {
+    text-align: center;
+    text-align-last: center;
+}
