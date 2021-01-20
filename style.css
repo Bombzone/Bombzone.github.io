@@ -89,4 +89,10 @@ b {
 }
 ul {
     color: white;
+    text-align: left;
+}
+.airlines h2 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 }
