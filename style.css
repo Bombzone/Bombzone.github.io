@@ -9,6 +9,7 @@ body {
     background-size: cover;
     min-height: 93.9vh;
     width: 100%;
+    padding: auto;
 }
 h1 {
     font-size: 36pt;
