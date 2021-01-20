@@ -91,6 +91,5 @@ ul {
     color: white;
 }
 ::marker {
-    text-align: center;
-    text-align-last: center;
+    text-indent: 35% !important;
 }
